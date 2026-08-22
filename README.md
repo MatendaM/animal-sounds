@@ -1,26 +1,25 @@
 # Animal Sounds 🐾
 
-A simple, toddler-friendly website. Tap an animal to hear the sound it makes!
+A toddler-friendly **single HTML file**. Tap an animal to hear the sound it makes.
 
-## Features
+No install, no internet, no extra files.
 
-- Large, colorful animal cards — easy for little fingers
-- Tap anywhere on a card to play the sound
-- Works on phones, tablets, and desktop
-- No login, no ads, no distractions
+## Share on WhatsApp
 
-## Run locally
+Send **`animal-sounds.html`** as a document.
 
-Open `index.html` in a browser, or start a local server (recommended for audio):
+On the other phone:
 
-```bash
-python3 -m http.server 8080
-```
+1. Open the chat and tap the file
+2. Download it
+3. Open it in the browser (Safari on iPhone, Chrome on Android)
 
-Then visit [http://localhost:8080](http://localhost:8080).
+That’s it — pictures and sounds are already inside the file (~335 KB).
 
-> **Tip:** Add to your phone home screen for a full-screen toddler app experience.
+## Open on your computer
 
-## Animals included
+Double-click `animal-sounds.html`, or open `index.html` the same way. Both files are identical.
+
+## Animals
 
 Cat, Dog, Cow, Duck, Pig, Sheep, Rooster, and Lion.
