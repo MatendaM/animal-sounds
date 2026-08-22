@@ -1,24 +1,32 @@
 # Animal Sounds 🐾
 
-A toddler-friendly **single HTML file**. Tap an animal to hear the sound it makes.
+A toddler-friendly animal sounds page. Tap an animal to hear it.
 
-No install, no internet, no extra files.
+## iPhone: share a link, not the file
 
-## Share on WhatsApp
+iPhone **cannot** open an `.html` file from WhatsApp as a real website. Safari blocks local files, so the animals and sounds will not work that way.
 
-Send **`animal-sounds.html`** as a document.
+**What to do instead:** publish this repo as a website, then send the link on WhatsApp.
 
-On the other phone:
+1. Open the repo on GitHub: [MatendaM/animal-sounds](https://github.com/MatendaM/animal-sounds)
+2. **Settings → General → Danger Zone → Change repository visibility → Public**  
+   (needed so family can open the page without a GitHub login)
+3. **Settings → Pages**
+4. Under **Build and deployment**:
+   - Source: **Deploy from a branch**
+   - Branch: **main** / **root**
+5. Click **Save** and wait about a minute
+6. Your page will be: **https://matendam.github.io/animal-sounds/**
+7. Send that link in WhatsApp. Tap it — it opens in Safari.
 
-1. Open the chat and tap the file
-2. Download it
-3. Open it in the browser (Safari on iPhone, Chrome on Android)
+On iPhone you can also tap **Share → Add to Home Screen** so it feels like an app.
 
-That’s it — pictures and sounds are already inside the file (~335 KB).
+## Android or computer
 
-## Open on your computer
+`animal-sounds.html` still works as a single file:
 
-Double-click `animal-sounds.html`, or open `index.html` the same way. Both files are identical.
+- **Computer:** double-click the file
+- **Android:** tap the WhatsApp document and open it in Chrome
 
 ## Animals
 
