@@ -30,4 +30,4 @@ On iPhone you can also tap **Share → Add to Home Screen** so it feels like an 
 
 ## Animals
 
-Cat, Dog, Cow, Duck, Pig, Sheep, Rooster, and Lion.
+Cat, Dog, Cow, Duck, Pig, Sheep, Rooster, Lion, Jelen, and Žirafa.
